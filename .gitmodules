@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GIGrvg"]
+	path = GIGrvg
+	url = https://github.com/cran/GIGrvg
+	shallow = true
+	registered = true
+[submodule "rstream"]
+	path = rstream
+	url = https://github.com/cran/rstream
+	shallow = true
+	registered = true
+[submodule "Runuran"]
+	path = Runuran
+	url = https://github.com/cran/Runuran
+	shallow = true
+	registered = true
+[submodule "Tinflex"]
+	path = Tinflex
+	url = https://github.com/cran/Tinflex
+	shallow = true
+	registered = true
