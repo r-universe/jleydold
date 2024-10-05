@@ -5,9 +5,6 @@
 [submodule "GIGrvg"]
 	path = GIGrvg
 	url = https://github.com/cran/GIGrvg
-[submodule "Runuran"]
-	path = Runuran
-	url = https://github.com/cran/Runuran
 [submodule "Tinflex"]
 	path = Tinflex
 	url = https://github.com/cran/Tinflex
